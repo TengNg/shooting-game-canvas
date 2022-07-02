@@ -1,4 +1,4 @@
 # simple-shooting-game
-- ASWD: move
-- Right-click: shoot
+- ADWS: move
+- Left-click: shoot
 - Space: pause/unpause
